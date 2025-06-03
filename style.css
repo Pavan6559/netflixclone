@@ -65,3 +65,9 @@ body{
     font-size: 20px;
     cursor: pointer;
 }
+
+/* hero section */
+.hero{
+    height: 80vh;
+    background: linear-gradient(to bottom, rgba(0,,0,0,0.4) ,rgba(0,0,0,0.8));
+}
